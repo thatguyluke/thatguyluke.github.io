@@ -5,9 +5,7 @@ sidebar_position: 1
 
 # Description of the project
 
-This project was created to show a simple template using Storyline 360 
-
-[test](./assets/TEST_Template/story.html)
+This project was created to show a simple template using Storyline 360 (add link later)
 
 ## Requirements
 
