@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.thatguyluke.com/thatguyluke.github.io/blog</id>
+    <id>https://github.com/thatguyluke.github.io/blog</id>
     <title>That Guy Luke Blog</title>
     <updated>2025-01-02T02:47:37.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.thatguyluke.com/thatguyluke.github.io/blog"/>
+    <link rel="alternate" href="https://github.com/thatguyluke.github.io/blog"/>
     <subtitle>That Guy Luke Blog</subtitle>
-    <icon>http://www.thatguyluke.com/thatguyluke.github.io/img/favicon.ico</icon>
+    <icon>https://github.com/thatguyluke.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>http://www.thatguyluke.com/thatguyluke.github.io/blog/welcome</id>
-        <link href="http://www.thatguyluke.com/thatguyluke.github.io/blog/welcome"/>
+        <id>https://github.com/thatguyluke.github.io/blog/welcome</id>
+        <link href="https://github.com/thatguyluke.github.io/blog/welcome"/>
         <updated>2025-01-02T02:47:37.000Z</updated>
         <summary type="html"><![CDATA[Introduction Stuff Goes Here]]></summary>
         <content type="html"><![CDATA[<h3 id="introduction-stuff-goes-here">Introduction Stuff Goes Here</h3>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>http://www.thatguyluke.com/thatguyluke.github.io/blog/mdx-blog-post</id>
-        <link href="http://www.thatguyluke.com/thatguyluke.github.io/blog/mdx-blog-post"/>
+        <id>https://github.com/thatguyluke.github.io/blog/mdx-blog-post</id>
+        <link href="https://github.com/thatguyluke.github.io/blog/mdx-blog-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/">MDX</a>.</p>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>http://www.thatguyluke.com/thatguyluke.github.io/blog/long-blog-post</id>
-        <link href="http://www.thatguyluke.com/thatguyluke.github.io/blog/long-blog-post"/>
+        <id>https://github.com/thatguyluke.github.io/blog/long-blog-post</id>
+        <link href="https://github.com/thatguyluke.github.io/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -71,8 +71,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>http://www.thatguyluke.com/thatguyluke.github.io/blog/first-blog-post</id>
-        <link href="http://www.thatguyluke.com/thatguyluke.github.io/blog/first-blog-post"/>
+        <id>https://github.com/thatguyluke.github.io/blog/first-blog-post</id>
+        <link href="https://github.com/thatguyluke.github.io/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
