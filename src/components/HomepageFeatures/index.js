@@ -8,25 +8,25 @@ const FeatureList = [
     Svg: require('@site/static/img/eyeD.svg').default,
     description: (
       <>
-        Could add something here about ID.
+        Topic 1
       </>
     ),
   },
   {
-    title: 'Leadership?',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'something else',
+    Svg: require('@site/static/img/eyeD.svg').default,
     description: (
       <>
-        Could add something about leadership here.
+        Topic 2
       </>
     ),
   },
   {
     title: 'I like having three things here, what should go here?',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/eyeD.svg').default,
     description: (
       <>
-        Need some ideas for this.
+        topic 3
       </>
     ),
   },
