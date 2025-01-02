@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluketwardowski=self.webpackChunkluketwardowski||[]).push([[1875],{1113:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/thatguyluke.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
