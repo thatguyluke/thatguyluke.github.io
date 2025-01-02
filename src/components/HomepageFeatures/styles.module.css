@@ -1,0 +1,26 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.image-container {
+  width: 300px; /* Set the width of the container */
+  height: 200px; /* Set the height of the container */
+
+  img {
+    width: 100%; /* Make the image fill the container width */
+    height: 100%; /* Make the image fill the container height */
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+  }
+}
+[data-theme='light'] img[src$='#gh-darkmode-only'],
+[data-theme='dark'] img[src$= '#gh-lightmode-only'] {
+  display: none;
+}
