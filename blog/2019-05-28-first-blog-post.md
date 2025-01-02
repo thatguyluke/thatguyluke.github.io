@@ -1,11 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors:
-  name: thatguyLuke
-  title: Learning evangalist and tinkerer
-  url: https://github.com/thatguyluke
-  # image_url: https://github.com/wgao19.png
+authors: [thatguyLuke] 
 tags: [hola, docusaurus]
 ---
 
