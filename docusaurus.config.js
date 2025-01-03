@@ -7,6 +7,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'That Guy Luke',
@@ -14,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://thatguyluke.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/thatguyluke.github.io/',
@@ -56,8 +57,8 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -78,7 +79,7 @@ const config = {
       navbar: {
         title: 'ThatGuy',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'ThatGuy',
           src: 'img/eyeD.svg',
         },
         items: [
@@ -97,11 +98,11 @@ const config = {
           {to: '/docs/category/projects', label: 'Projects', position: 'left'},
           {to: '/docs/category/games', label: 'Games', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'right'},          
-          //{
-           // href: 'https://github.com/thatguyluke',
-           // label: 'GitHub',
-           // position: 'right',
-          //},
+          {
+            href: 'https://github.com/thatguyluke',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -115,7 +116,7 @@ const config = {
                 to: '/docs/category/projects',
               },
               {
-                label: 'games',
+                label: 'Games',
                 to: '/docs/category/games'
               }
             ]
@@ -151,7 +152,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Luke Twardowski`,
+        copyright: `Copyright © ${new Date().getFullYear()} That Guy Luke`,
       },
       prism: {
         theme: prismThemes.github,
