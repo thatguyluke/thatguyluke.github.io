@@ -18,6 +18,3 @@ I have been blessed (or cursed) to be chronic tinkerer, lover of puzzles, and a 
 This section is a collection of my tinkerings - some professional and many "just because."  I figured I would collect these bits and bobs of things I've made and put them in one easy to gt to location.  I have decided to call this location "Projects" because I am not only a curious, life long learning, chronically tinkering, lover of puzzles but I am also fantastic when it comes to giving things names.
 
 I hope you enjoy checking some of my projects out, as much as I enjoyed putting them together.
-
-
-<i
