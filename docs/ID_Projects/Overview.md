@@ -20,4 +20,4 @@ This section is a collection of my tinkerings - some professional and many "just
 I hope you enjoy checking some of my projects out, as much as I enjoyed putting them together.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gWJGQi2gTVs?si=A2gDedzQC7q54VWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<i
