@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Storyline Templates'
+sidebar_label: 'Storyline Template'
 sidebar_position: 3
 ---
 
