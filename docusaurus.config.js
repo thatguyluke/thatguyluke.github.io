@@ -125,7 +125,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'My LinkedIn',
+                label: 'Connect with me on LinkedIn',
                 href: 'https://www.linkedin.com/in/luke-twardowski/',
               },
               {
@@ -133,7 +133,7 @@ const config = {
                 href: 'https://github.com/thatguyluke',
               },
               {
-                label: 'My LMS',
+                label: 'Check out my LMS (requires an account)',
                 href: 'https://tekul.rockstarlearning.com/',
               },
             ],
