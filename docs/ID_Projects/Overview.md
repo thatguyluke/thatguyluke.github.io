@@ -3,7 +3,7 @@ sidebar_label: 'Projects Overview'
 sidebar_position: 1
 ---
 
-## I learn by building.
+# I learn by building
 
 These projects are a mix of professional work and curiosity-driven experiments, but they all share the same thread: solving problems, testing ideas, and finding better ways to help people learn and perform.
 
