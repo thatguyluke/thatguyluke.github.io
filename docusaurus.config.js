@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'That Guy Luke',
-  tagline: 'UNDER CONSTRUCTION STILL',
+  title: 'That-Guy Luke Twardowski',
+  tagline: 'Welcome to my portfolio',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -157,6 +157,11 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      colorMode: {
+        defaultMode: 'dark', // Sets the default color mode to dark
+        disableSwitch: false, // Keeps the switch in the navbar enabled (optional)
+        respectPrefersColorScheme: true, // Ignores the user's system preferences (optional)
       },
     }),
 };
