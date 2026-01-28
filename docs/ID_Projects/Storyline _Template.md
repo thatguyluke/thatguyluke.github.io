@@ -3,7 +3,7 @@ sidebar_label: 'Storyline Template'
 sidebar_position: 3
 ---
 
-## Simple Storyline Template
+# Simple Storyline Template
 
 Templates accellerate eLearning program development.  
 
