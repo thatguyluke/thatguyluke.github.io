@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Luke Twardowski',
-  tagline: 'Welcome to my portfolio',
+  tagline: 'Portfolio',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -100,7 +100,7 @@ const config = {
           // {to: '/blog', label: 'Blog', position: 'right'},          
           {
             href: 'https://github.com/thatguyluke',
-            label: 'GitHub',
+            label: 'My GitHub',
             position: 'right',
           },
         ],
@@ -141,10 +141,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //  label: 'Blog',
+              //  to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/thatguyluke',
