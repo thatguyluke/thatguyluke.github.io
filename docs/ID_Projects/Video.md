@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Videos'
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # A Few Samples of Video Content Through the Years
