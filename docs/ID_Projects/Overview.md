@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Projects Overview'
+sidebar_label: 'Overview'
 sidebar_position: 1
 ---
 
-# Projects Overview
+# Overview
 
 <img src="/img/instructor.svg" alt="skills" width="20%" />
 
@@ -25,8 +25,6 @@ Welcome to my projects, a home for the ideas I’ve built, tested, and brought t
 
 *Even this Portfolio is a project in a way.*
 
-At FTI even though I was the head of all Product Enablement efforts (**Training and Technical Documentation Manager** with a team of 8 fantastic folks), I often filled the role of Technical Writer (when no one on my team was available) for smaller products and tools, and instructional designer/trainer for all products and tools (**Player/Coach!**)
+Previously, even though I was the head of all Product Enablement efforts (**Training and Technical Documentation Manager** with a team of 8 fantastic folks), I often filled the role of Technical Writer (when no one on my team was available) for smaller products and tools, and instructional designer/trainer for all products and tools (**Player/Coach!**)
 
 I have been using Docusaurus for online documentation since 2018 and decided to maintain my own portfolio using it as well.  This side project helps me keep my skills relevant, practice good git habits, and continue to learn.
-
-
