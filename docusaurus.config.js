@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Luke Twardowski',
-  tagline: 'Portfolio',
+  // tagline: 'Portfolio',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -95,8 +95,8 @@ const config = {
             position: 'right',
             label: 'About Me',
           },
-          {to: '/docs/category/projects', label: 'Projects', position: 'left'},
-          {to: '/docs/category/games', label: 'Games', position: 'left'},
+          {to: '/docs/category/portfolio', label: 'Portfolio', position: 'left'},
+          // {to: '/docs/category/games', label: 'Games', position: 'left'},
           // {to: '/blog', label: 'Blog', position: 'right'},          
           {
             href: 'https://github.com/thatguyluke',
@@ -112,13 +112,13 @@ const config = {
             title: 'Site',
             items: [
               {
-                label: 'Projects',
-                to: '/docs/category/projects',
+                label: 'Portfolio',
+                to: '/docs/category/portfolio',
               },
-              {
-                label: 'Games',
-                to: '/docs/category/games'
-              }
+              //{
+              //  label: 'Games',
+              //  to: '/docs/category/games'
+              //}
             ]
           },
           {
