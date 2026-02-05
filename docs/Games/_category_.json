@@ -1,8 +1,8 @@
 {
-  "label": "Games",
+  "label": "Save For Later",
   "position": 4 ,
   "link": {
     "type": "generated-index",
-    "description": "Coming soon! Examples of some simple learning games I have made"
+    "description": "Coming soon!"
   }
 }
